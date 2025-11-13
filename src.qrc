@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>src/execute.png</file>
+        <file>src/setting.png</file>
+        <file>src/task.png</file>
+        <file>src/test.png</file>
+        <file>src/more.png</file>
+        <file>src/quickStart.png</file>
+        <file>src/refresh.png</file>
+        <file>src/richang.png</file>
+        <file>src/info.png</file>
+        <file>src/zzz.png</file>
+        <file>src/faq.png</file>
+        <file>src/help.png</file>
+        <file>src/bz.png</file>
+        <file>src/bz1.png</file>
+        <file>src/tp.ico</file>
+    </qresource>
+</RCC>

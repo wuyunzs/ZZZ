@@ -1,0 +1,24 @@
+# ninja log v6
+43	1409	7789450832840430	zzz_autogen/timestamp	bab8bdfb4dc73ed4
+2169	5398	7788789202557550	CMakeFiles/zzz.dir/main.cpp.obj	4c5eedbde8144156
+43	1409	7789450832840430	zzz_autogen/mocs_compilation.cpp	bab8bdfb4dc73ed4
+2864	5025	7788789209513532	CMakeFiles/zzz.dir/zzz.cpp.obj	ccb3a82ede676ef0
+1401	2779	7789448965859516	D:/File/language/Qt/zzz/build/Desktop_Qt_6_9_1_MSVC2022_64bit-Release/zzz_autogen/EWIEGA46WW/qrc_src.cpp	cffa76b5e0626a8e
+43	1409	7789450832840430	D:/File/language/Qt/zzz/build/Desktop_Qt_6_9_1_MSVC2022_64bit-Release/zzz_autogen/mocs_compilation.cpp	bab8bdfb4dc73ed4
+1825	5512	7788789199120142	CMakeFiles/zzz.dir/zzz_autogen/mocs_compilation.cpp.obj	e80257c0fa4a6069
+43	1409	7789450832840430	D:/File/language/Qt/zzz/build/Desktop_Qt_6_9_1_MSVC2022_64bit-Release/zzz_autogen/timestamp	bab8bdfb4dc73ed4
+1410	5287	7789450846511811	CMakeFiles/zzz.dir/mainwindow.cpp.obj	12e5bac4506932a1
+5287	6642	7789450885287762	zzz.exe	493719e53eeb10cf
+2872	5785	7776428629641329	CMakeFiles/zzz.dir/ConnectionStratum.cpp.obj	bdf4435a091342f1
+1401	2779	7789448965859516	zzz_autogen/EWIEGA46WW/qrc_src.cpp	cffa76b5e0626a8e
+3155	7399	7789448969728879	CMakeFiles/zzz.dir/zzz_autogen/EWIEGA46WW/qrc_src.cpp.obj	657a569a63679fa2
+31	516	7778141718725699	CMakeFiles/clean.additional	464539dd4e35155e
+517	1008	7778141723585568	clean	7c4ab7700f810e4a
+28	4884	7847486218004238	build.ninja	4f7ee753058a862f
+21	319	7847489960083419	zzz_autogen/timestamp	bab8bdfb4dc73ed4
+21	319	7847489960083419	zzz_autogen/mocs_compilation.cpp	bab8bdfb4dc73ed4
+21	319	7847489960083419	D:/File/language/Qt/zzz/build/Desktop_Qt_6_9_1_MSVC2022_64bit-Release/zzz_autogen/timestamp	bab8bdfb4dc73ed4
+21	319	7847489960083419	D:/File/language/Qt/zzz/build/Desktop_Qt_6_9_1_MSVC2022_64bit-Release/zzz_autogen/mocs_compilation.cpp	bab8bdfb4dc73ed4
+331	2597	7847489963176473	CMakeFiles/zzz.dir/zzz.cpp.obj	ccb3a82ede676ef0
+323	6514	7847489963092343	CMakeFiles/zzz.dir/mainwindow.cpp.obj	12e5bac4506932a1
+6514	6830	7847490025001226	zzz.exe	493719e53eeb10cf
